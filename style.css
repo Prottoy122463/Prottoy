@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.half{
+    width: 40%;
+    margin-left:5%;
+    padding:2.5%;
+    float:left;
+
+}
+section{
+    padding-bottom: 100px;
+    height: 600px;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: coral;
+}
+.lorem{
+    margin:15px 0;
+}
+.para{
+    margin-bottom: 30px;
+}
+.linked{
+margin-top:40px;
+}
+.link{
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+    background-image:linear-gradient( rgb(155, 155, 236),blue);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.salman{
+    width: 100%;
+}
+.welcome{
+    margin-top: 75px;
+    margin-bottom: 20px;
+}
+.header{
+    background-image:url(pic/top-banner.png) ;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.porter{
+    width: 100%;
+}
+h2{
+    font-size: 40px;
+}
