@@ -61,3 +61,55 @@ a{
 h2{
     font-size: 40px;
 }
+.header2{
+    background-image:url(pic/dream-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 50p;
+}
+.h3{
+    margin-top: 15px;
+    color: blueviolet;
+}
+.lorems{
+    margin-top: 30px;
+}
+.he{
+    margin-top: 20px;
+    color: rgb(223, 21, 105);
+}
+.graph{
+    margin-top: 30px;
+}
+.box{
+    box-shadow: 10px 10px 60px rgb(65, 63, 63);
+    border-radius: 15px;
+    height: 300px;
+    width: 500px;
+}
+.ex{
+    margin-bottom: 20px;
+    color: rgb(98, 0, 255);
+}
+.header3{
+    background-image: url(pic/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#parsonal{
+    border-left: 10px solid;
+    border-image:linear-gradient(rgb(9, 9, 240), rgb(118, 118, 189));
+    border-image-slice: 1;
+    border-radius: 15px;
+    background-color: rgb(253, 250, 250);
+}
+#parsonal2{
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(241, 218, 10),red);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+}
